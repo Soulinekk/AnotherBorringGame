@@ -1,0 +1,37 @@
+{
+	"Inventory":[
+		{
+			"id": 0,
+			"cardName": "CardExample",
+			"name": "None",
+			"encht":
+					{
+						"slot1": -1,
+						"slot2": -1,
+						"slot3": -1,
+						"slot4": -1,
+						"slot5": -1,
+						"slot6": -1,
+						"slot7": -1,
+						"slot8": -1
+					},
+			"encht_lvl": 
+					{
+						"encht1_lvl": 0,
+						"encht2_lvl": 0,
+						"encht3_lvl": 0,
+						"encht4_lvl": 0,
+						"encht5_lvl": 0,
+						"encht6_lvl": 0,
+						"encht7_lvl": 0,
+						"encht8_lvl": 0
+					}
+		}
+	],
+	"UserSave":[
+		{
+			"exp": 0,
+			"lvl": 1
+		}
+	]
+}

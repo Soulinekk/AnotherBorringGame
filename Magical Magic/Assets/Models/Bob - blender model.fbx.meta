@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: d73f7304dec59d34bafab2ec6c5cb2eb
+timeCreated: 1455928888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm Origin pt1
+    100002: Arm Origin Pt2
+    100004: Arms Left pt1
+    100006: Arms Left pt2
+    100008: Arms Right pt1
+    100010: Arms Right pt2
+    100012: //RootNode
+    100014: Body Origin
+    100016: Body Origin 2
+    100018: Body Origin 3
+    100020: Body pt1
+    100022: Body pt2
+    100024: Camera
+    100026: Cape
+    100028: Head
+    100030: Head Shadow
+    100032: Lamp
+    400000: Arm Origin pt1
+    400002: Arm Origin Pt2
+    400004: Arms Left pt1
+    400006: Arms Left pt2
+    400008: Arms Right pt1
+    400010: Arms Right pt2
+    400012: //RootNode
+    400014: Body Origin
+    400016: Body Origin 2
+    400018: Body Origin 3
+    400020: Body pt1
+    400022: Body pt2
+    400024: Camera
+    400026: Cape
+    400028: Head
+    400030: Head Shadow
+    400032: Lamp
+    2300000: Arm Origin pt1
+    2300002: Arm Origin Pt2
+    2300004: Arms Left pt1
+    2300006: Arms Left pt2
+    2300008: Arms Right pt1
+    2300010: Arms Right pt2
+    2300012: Body Origin
+    2300014: Body Origin 2
+    2300016: Body Origin 3
+    2300018: Body pt1
+    2300020: Body pt2
+    2300022: Cape
+    2300024: Head
+    2300026: Head Shadow
+    3300000: Arm Origin pt1
+    3300002: Arm Origin Pt2
+    3300004: Arms Left pt1
+    3300006: Arms Left pt2
+    3300008: Arms Right pt1
+    3300010: Arms Right pt2
+    3300012: Body Origin
+    3300014: Body Origin 2
+    3300016: Body Origin 3
+    3300018: Body pt1
+    3300020: Body pt2
+    3300022: Cape
+    3300024: Head
+    3300026: Head Shadow
+    4300000: Arms Right pt2
+    4300002: Arms Right pt1
+    4300004: Arm Origin Pt2
+    4300006: Arms Left pt2
+    4300008: Arm Origin pt1
+    4300010: Arms Left pt1
+    4300012: Body pt2
+    4300014: Body pt1
+    4300016: Body Origin 2
+    4300018: Body Origin
+    4300020: Body Origin 3
+    4300022: Cape
+    4300024: Head Shadow
+    4300026: Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

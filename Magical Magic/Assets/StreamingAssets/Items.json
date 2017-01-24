@@ -1,0 +1,150 @@
+// Game for now is basond on prefabs, in future it will be more mod friendly.
+
+{
+	"ShopBaseItems":[
+		{
+			"id": 1,
+			"title": "CardExample",
+			"price": 100,
+			"shortDescription": "Some cool but short description",
+			"description": "Some creative desc",
+			"nature": "mana",
+			"type": "Active",
+			//"skill/sword": "skill",
+			"video": "SomeVideo",
+			"critChance": 11,
+			"costHp": 12,
+			"costMp": 13,
+			"costSouls": 14,
+			"damageType": {
+				"magic": 1,
+				"light": 2,
+				"dark": 3,
+				"blood": 4,
+				"fire": 5,
+				"water": 6,
+				"wind": 7,
+				"earth": 8,
+				"toxin": 9,
+				"lightning": 10
+			}
+
+		},
+		{
+			"id": 2,
+			"title": "CardExample",
+			"price": 500,
+			"shortDescription": "Some cool but short description",
+			"description": "Some creative desc",
+			"nature": "mana",
+			"type": "Active",
+			"video": "SomeVideo",
+			"critChance": 15,
+			"costHp": 15,
+			"costMp": 16,
+			"costSouls": 17,
+			"damageType": {
+				"magic": 18,
+				"light": 19,
+				"dark": 20,
+				"blood": 21,
+				"fire": 22,
+				"water": 23,
+				"wind": 24,
+				"earth": 25,
+				"toxin": 26,
+				"lightning": 27
+			}
+		},
+		{
+			"id": 3,
+			"title": "CardExample",
+			"price": 5000,
+			"shortDescription": "Some cool but short description",
+			"description": "Some creative desc",
+			"nature": "mana",
+			"type": "Active",
+			"video": "SomeVideo",
+			"critChance": 28,
+			"costHp": 29,
+			"costMp": 30,
+			"costSouls": 31,
+			"damageType": {
+				"magic": 32,
+				"light": 33,
+				"dark": 34,
+				"blood": 35,
+				"fire": 36,
+				"water": 37,
+				"wind": 38,
+				"earth": 39,
+				"toxin": 40,
+				"lightning": 41
+			}
+		},
+		{
+			"id": 4,
+			"title": "CardExample",
+			"price": 25000,
+			"shortDescription": "Some cool but short description",
+			"description": "Some creative desc",
+			"nature": "Blood",
+			"type": "Active",
+			"video": "SomeVideo",
+			"critChance": 42,
+			"costHp": 43,
+			"costMp": 44,
+			"costSouls": 45,
+			"damageType": {
+				"magic": 46,
+				"light": 47,
+				"dark": 48,
+				"blood": 49,
+				"fire": 50,
+				"water": 51,
+				"wind": 52,
+				"earth": 53,
+				"toxin": 54,
+				"lightning": 55
+			}
+		},
+		{
+			"id": 5,
+			"title": "CardExample",
+			"price": 50000,
+			"shortDescription": "Some cool but short description",
+			"description": "Some creative desc",
+			"nature": "mana",
+			"type": "Active",
+			"video": "SomeVideo",
+			"critChance": 56,
+			"costHp": 57,
+			"costMp": 58,
+			"costSouls": 59,
+			"damageType": {
+				"magic": 60,
+				"light": 61,
+				"dark": 62,
+				"blood":63,
+				"fire": 64,
+				"water": 65,
+				"wind": 66,
+				"earth": 67,
+				"toxin": 68,
+				"lightning":69
+			}
+		}
+	],
+	"EnchantmentsCards":[
+		{
+			"id": 0,
+			"title": "Power",
+			"price": 500,
+			"shortDescription": "Some cool but short description",
+			"description": "Power up card effect",
+			"lvlMultiplier": 2,
+			"firstUpgradeCost": 1000,
+			"maxUpdate": 10
+		}
+	]
+}

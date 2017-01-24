@@ -1,0 +1,87 @@
+{
+	"ShopBaseItems":[
+		{
+			"id": 1,
+			"title": "bolt",
+			"price": 100,
+			"description": "Some creative desc",
+			"nature": "mana",
+			"state": "Active"
+		},
+		{
+			"id": 2,
+			"title": "homing bolt",
+			"price": 500,
+			"description": "Some creative desc",
+			"nature": "mana",
+			"state": "Active"
+		},
+		{
+			"id": 3,
+			"title": "void call",
+			"price": 5000,
+			"description": "Some creative desc",
+			"nature": "mana",
+			"state": "Active"
+		},
+		{
+			"id": 4,
+			"title": "flying sheeps",
+			"price": 25000,
+			"description": "Some creative desc",
+			"nature": "Blood",
+			"state": "Active"
+		},
+		{
+			"id": 5,
+			"title": "awesome magic!",
+			"price": 50000,
+			"description": "Some creative desc",
+			"nature": "mana",
+			"state": "Active"
+		},
+		{
+			"id": 6,
+			"title": "is that end",
+			"price": 100000,
+			"description": "Some creative desc",
+			"nature": "Blood",
+			"state": "A-Passive"
+		},
+		{
+			"id": 7,
+			"title": "can i stop already",
+			"price": 250000,
+			"description": "Some creative desc",
+			"nature": "Blood",
+			"state": "A-Passive"
+		},
+		{
+			"id": 8,
+			"title": "god stop this",
+			"price": 750000,
+			"description": "Some creative desc",
+			"nature": "Special",
+			"state": "Passive"
+		},
+		{
+			"id": 9,
+			"title": "kill me",
+			"price": 200000,
+			"description": "Some creative desc",
+			"nature": "Blood",
+			"state": "Active"
+		}
+	],
+	"EnchantmentsCards":[
+		{
+			"id": 0,
+			"title": "Power",
+			"price": 500,
+			"description": "Power up card effect",
+			"lvlMultiplier": 2,
+			"firstUpgradeCost": 1000,
+			"maxUpdate": 10
+		}
+	]
+}
